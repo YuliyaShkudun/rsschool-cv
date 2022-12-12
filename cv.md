@@ -18,4 +18,11 @@ function multiply(a, b){
   return a * b 
 } 
 ```
+## Education:
+* CS50 lectures
+* FreeCodeCamp
+* HTML Academy
+
+## Language
+> English level - A2
 
